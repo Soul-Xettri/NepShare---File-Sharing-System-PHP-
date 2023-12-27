@@ -21,8 +21,8 @@ To set up NepShare on your system, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/NepShare.git
-    cd NepShare
+    git clone https://github.com/soul-xettri/NepShare.git
+    cd NepShare---File-Sharing-System-PHP-
     ```
 
 2. **Database Configuration:**
